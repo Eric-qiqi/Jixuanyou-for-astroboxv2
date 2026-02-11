@@ -1,0 +1,50 @@
+{
+  "item": {
+    "id": "",
+    "restype": "watchface",
+    "name": "动态疾旋鼬",
+    "description": "可爱的疾旋鼬！资源来自@玖号集市-5群",
+    "preview": [
+      "media/toutu.png"
+    ],
+    "icon": "media/icon.png",
+    "cover": "media/toutu.png",
+    "author": [
+      {
+        "name": "Eric齐齐",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://www.bandbbs.cn/members/130916/",
+      "icon": ""
+    },
+    {
+      "title": "投喂我",
+      "url": "https://afdian.com/a/3r1cqiqi",
+      "icon": ""
+    }
+  ],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/jixuanyou10.bin"
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/jixuanyou10n.bin"
+    },
+    "xmb9": {
+      "version": "1.0.0",
+      "file_name": "downloads/jixuanyou9.bin"
+    },
+    "xmb9p": {
+      "version": "1.0.1",
+      "file_name": "downloads/jixuanyou9p.bin"
+    }
+  },
+  "ext": {}
+}
